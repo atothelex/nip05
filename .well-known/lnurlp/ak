@@ -3,6 +3,6 @@
 	"maxSendable":11000000000,
 	"minSendable":1000,
 	"metadata":"[[\"text/plain\",\"Sats for AK\"],[\"text/identifier\",\"ak@primal.net\"]]",
-	"commentAllowed":5200,
+	"commentAllowed":200,
 	"tag":"payRequest"
 } 
