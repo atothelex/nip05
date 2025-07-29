@@ -1,8 +1,8 @@
 {
-	"callback":"https://coinos.io/api/lnurl/c745789c-2971-4fe2-9f4b-4ad8004234a8",
-	"maxSendable":100000000000,
+	"callback":"https://primal.net/lnurlp/ak/callback",
+	"maxSendable":11000000000,
 	"minSendable":1000,
-	"metadata":"[[\"text/plain\",\"Sats for AK\"],[\"text/identifier\",\"ak@coinos.io\"]]",
-	"commentAllowed":512,
+	"metadata":"[[\"text/plain\",\"Sats for AK\"],[\"text/identifier\",\"ak@primal.net\"]]",
+	"commentAllowed":200,
 	"tag":"payRequest"
 } 
