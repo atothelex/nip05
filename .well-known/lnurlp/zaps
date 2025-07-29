@@ -1,5 +1,5 @@
 {
-	"callback":"https://coinos.io/api/lnurl/c745789c-2971-4fe2-9f4b-4ad8004234a8",
+	"callback":"https://coinos.io/api/lnurl/13f6e712-eb7b-4929-a827-28b822610c5c",
 	"maxSendable":100000000000,
 	"minSendable":1000,
 	"metadata":"[[\"text/plain\",\"Sats for AK\"],[\"text/identifier\",\"ak@coinos.io\"]]",
