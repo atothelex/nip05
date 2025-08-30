@@ -1,8 +1,8 @@
 {
-	"callback":"https://coinos.io/api/lnurl/13f6e712-eb7b-4929-a827-28b822610c5c",
+	"callback":"https://rizful.com/lnurl_two/ak/get_invoice",
 	"maxSendable":100000000000,
 	"minSendable":1000,
-	"metadata":"[[\"text/plain\",\"Sats for AK\"],[\"text/identifier\",\"ak@coinos.io\"]]",
-	"commentAllowed":512,
+	"metadata":"[[\"text/plain\",\"Sats for AK\"],[\"text/identifier\",\"ak@rizful.com\"]]",
+	"commentAllowed":224,
 	"tag":"payRequest"
 } 
